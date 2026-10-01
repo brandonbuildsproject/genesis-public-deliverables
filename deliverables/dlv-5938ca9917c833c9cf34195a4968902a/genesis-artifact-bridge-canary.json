@@ -1,0 +1,19 @@
+{
+  "title": "Genesis Public Artifact Bridge Canary",
+  "packType": "qa-checklist",
+  "purpose": "Harmless deterministic pack proving executor artifact to public HTTPS publication.",
+  "files": [
+    {
+      "path": "qa-checklist.md",
+      "content": "# Genesis Public Artifact Bridge Canary\n\nPurpose: Harmless deterministic pack proving executor artifact to public HTTPS publication.\n\n## Functional checks\n- [ ] Primary flow works\n- [ ] Error states handled\n- [ ] Inputs validated\n\n## Content checks\n- [ ] Copy reviewed\n- [ ] No unsupported claims\n\n## Release checks\n- [ ] Build passes\n- [ ] Responsive layout checked\n- [ ] Rollback path known\n"
+    },
+    {
+      "path": "bug-report.md",
+      "content": "# Bug report\n\n## Summary\n[Short description]\n\n## Steps to reproduce\n1. [Step]\n2. [Step]\n\n## Expected\n[Expected result]\n\n## Actual\n[Actual result]\n\n## Evidence\n[Logs/screenshots]\n"
+    },
+    {
+      "path": "release-signoff.md",
+      "content": "# Release sign-off\n\n- Version: [ ]\n- Test scope: [ ]\n- Known limitations: [ ]\n- Sign-off status: [ ]\n"
+    }
+  ]
+}
